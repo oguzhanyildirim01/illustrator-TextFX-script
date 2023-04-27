@@ -1,0 +1,2 @@
+# TextFX
+Adobe Illustrator Script
